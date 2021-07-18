@@ -34,7 +34,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Learn - Unlearn - Relearn Reserved</Slogan>
+          <Slogan>Learn - Unlearn - Relearn</Slogan>
         </CompanyContainer>
         <CompanyContainer>
           <Slogan>Copyright © 2021 9pol.dev. All Rights Reserved</Slogan>

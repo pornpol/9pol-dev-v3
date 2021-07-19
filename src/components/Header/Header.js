@@ -42,6 +42,11 @@ const Header = () => (
           <NavLink>About</NavLink>
         </Link>
       </li>
+      <li>
+        <a href="/files/PORNPOL_WASUWAT_CV.pdf" target="_blank">
+          <NavLink>CV</NavLink>
+        </a>
+      </li>
       {/* <li>
         <Link href="#">
           <NavLink>Blog</NavLink>
